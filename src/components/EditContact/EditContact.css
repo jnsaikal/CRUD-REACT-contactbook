@@ -1,0 +1,41 @@
+.main-modal {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(255, 255, 224, 0.701);
+}
+
+.inner-modal{
+    width: 300px;
+    height: 290px;
+    background-color: rgb(255, 255, 224);
+    margin: 150px auto;
+}
+.close {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.close-btn{
+    background-color: rgb(1, 1, 36);
+    color: white;
+}
+.save{
+    margin-top: 9px;
+    margin-left: 95px;
+}
+.save-btn{
+    background-color: rgb(1, 1, 36);
+    color: white;
+}
+.inputs{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.input{
+    border-radius: 4px;
+    margin-top: 3px;
+}

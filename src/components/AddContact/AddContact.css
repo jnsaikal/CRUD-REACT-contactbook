@@ -1,0 +1,21 @@
+.record-input{
+    margin-right: 60%;
+}
+h2{
+    color: white;
+    margin-left: 20px;
+
+}
+input{
+    width:200px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+button{
+    width:100px;
+    height: 35px;
+    margin-left: 15px;
+    background-color: rgb(251, 241, 221);
+    border: none;
+}

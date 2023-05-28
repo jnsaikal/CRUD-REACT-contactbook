@@ -1,0 +1,15 @@
+.record-display{
+    margin-left: 44%;
+    margin-top: -226px;
+}
+li{
+    list-style-type: none;
+    margin-bottom: 20px;
+    color: white;
+}
+body{
+    background-color:rgb(1, 1, 36);
+}
+button {
+    margin-top: 5px;
+}
